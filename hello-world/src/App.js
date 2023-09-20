@@ -8,9 +8,9 @@ function App() {
   return (
     <div className="App">
       <Greet name="Kuldeep" heroName="Batman">
-        <p>
+        {/* <p>
           This is children props
-        </p>
+        </p> */}
       </Greet>
       <Greet name="Bala" heroName="Wanda">
         <button>Action</button>
